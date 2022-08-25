@@ -31,7 +31,7 @@ app.post("/",(req,res)=>{
 
 
     var options = {
-        auth : "myapi:b67d22af23beb3d8f7685d1dfe2685db-us10",
+        auth : "myapi:<YOUR API KEY>",
         method :"POST"
 
     }
